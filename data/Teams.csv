@@ -1,365 +1,365 @@
-Team_Id,Team_Name
-1101,Abilene Chr
-1102,Air Force
-1103,Akron
-1104,Alabama
-1105,Alabama A&M
-1106,Alabama St
-1107,Albany NY
-1108,Alcorn St
-1109,Alliant Intl
-1110,American Univ
-1111,Appalachian St
-1112,Arizona
-1113,Arizona St
-1114,Ark Little Rock
-1115,Ark Pine Bluff
-1116,Arkansas
-1117,Arkansas St
-1118,Armstrong St
-1119,Army
-1120,Auburn
-1121,Augusta
-1122,Austin Peay
-1123,Ball St
-1124,Baylor
-1125,Belmont
-1126,Bethune-Cookman
-1127,Binghamton
-1128,Birmingham So
-1129,Boise St
-1130,Boston College
-1131,Boston Univ
-1132,Bowling Green
-1133,Bradley
-1134,Brooklyn
-1135,Brown
-1136,Bryant
-1137,Bucknell
-1138,Buffalo
-1139,Butler
-1140,BYU
-1141,C Michigan
-1142,Cal Poly SLO
-1143,California
-1144,Campbell
-1145,Canisius
-1146,Cent Arkansas
-1147,Centenary
-1148,Central Conn
-1149,Charleston So
-1150,Charlotte
-1151,Chattanooga
-1152,Chicago St
-1153,Cincinnati
-1154,Citadel
-1155,Clemson
-1156,Cleveland St
-1157,Coastal Car
-1158,Col Charleston
-1159,Colgate
-1160,Colorado
-1161,Colorado St
-1162,Columbia
-1163,Connecticut
-1164,Coppin St
-1165,Cornell
-1166,Creighton
-1167,CS Bakersfield
-1168,CS Fullerton
-1169,CS Northridge
-1170,CS Sacramento
-1171,Dartmouth
-1172,Davidson
-1173,Dayton
-1174,Delaware
-1175,Delaware St
-1176,Denver
-1177,DePaul
-1178,Detroit
-1179,Drake
-1180,Drexel
-1181,Duke
-1182,Duquesne
-1183,E Illinois
-1184,E Kentucky
-1185,E Michigan
-1186,E Washington
-1187,East Carolina
-1188,Edwardsville
-1189,Elon
-1190,ETSU
-1191,Evansville
-1192,F Dickinson
-1193,Fairfield
-1194,FL Atlantic
-1195,FL Gulf Coast
-1196,Florida
-1197,Florida A&M
-1198,Florida Intl
-1199,Florida St
-1200,Fordham
-1201,Fresno St
-1202,Furman
-1203,G Washington
-1204,Ga Southern
-1205,Gardner Webb
-1206,George Mason
-1207,Georgetown
-1208,Georgia
-1209,Georgia St
-1210,Georgia Tech
-1211,Gonzaga
-1212,Grambling
-1213,Grand Canyon
-1214,Hampton
-1215,Hardin-Simmons
-1216,Hartford
-1217,Harvard
-1218,Hawaii
-1219,High Point
-1220,Hofstra
-1221,Holy Cross
-1222,Houston
-1223,Houston Bap
-1224,Howard
-1225,Idaho
-1226,Idaho St
-1227,IL Chicago
-1228,Illinois
-1229,Illinois St
-1230,Incarnate Word
-1231,Indiana
-1232,Indiana St
-1233,Iona
-1234,Iowa
-1235,Iowa St
-1236,IPFW
-1237,IUPUI
-1238,Jackson St
-1239,Jacksonville
-1240,Jacksonville St
-1241,James Madison
-1242,Kansas
-1243,Kansas St
-1244,Kennesaw
-1245,Kent
-1246,Kentucky
-1247,La Salle
-1248,Lafayette
-1249,Lamar
-1250,Lehigh
-1251,Liberty
-1252,Lipscomb
-1253,Long Beach St
-1254,Long Island
-1255,Longwood
-1256,Louisiana Tech
-1257,Louisville
-1258,Loy Marymount
-1259,Loyola MD
-1260,Loyola-Chicago
-1261,LSU
-1262,MA Lowell
-1263,Maine
-1264,Manhattan
-1265,Marist
-1266,Marquette
-1267,Marshall
-1268,Maryland
-1269,Massachusetts
-1270,McNeese St
-1271,MD E Shore
-1272,Memphis
-1273,Mercer
-1274,Miami FL
-1275,Miami OH
-1276,Michigan
-1277,Michigan St
-1278,Minnesota
-1279,Mississippi
-1280,Mississippi St
-1281,Missouri
-1282,Missouri KC
-1283,Missouri St
-1284,Monmouth NJ
-1285,Montana
-1286,Montana St
-1287,Morehead St
-1288,Morgan St
-1289,Morris Brown
-1290,MS Valley St
-1291,Mt St Mary's
-1292,MTSU
-1293,Murray St
-1294,N Colorado
-1295,N Dakota St
-1296,N Illinois
-1297,N Kentucky
-1298,Navy
-1299,NC A&T
-1300,NC Central
-1301,NC State
-1302,NE Illinois
-1303,NE Omaha
-1304,Nebraska
-1305,Nevada
-1306,New Hampshire
-1307,New Mexico
-1308,New Mexico St
-1309,New Orleans
-1310,Niagara
-1311,Nicholls St
-1312,NJIT
-1313,Norfolk St
-1314,North Carolina
-1315,North Dakota
-1316,North Florida
-1317,North Texas
-1318,Northeastern
-1319,Northern Arizona
-1320,Northern Iowa
-1321,Northwestern
-1322,Northwestern LA
-1323,Notre Dame
-1324,Oakland
-1325,Ohio
-1326,Ohio St
-1327,Okla City
-1328,Oklahoma
-1329,Oklahoma St
-1330,Old Dominion
-1331,Oral Roberts
-1332,Oregon
-1333,Oregon St
-1334,Pacific
-1335,Penn
-1336,Penn St
-1337,Pepperdine
-1338,Pittsburgh
-1339,Portland
-1340,Portland St
-1341,Prairie View
-1342,Presbyterian
-1343,Princeton
-1344,Providence
-1345,Purdue
-1346,Quinnipiac
-1347,Radford
-1348,Rhode Island
-1349,Rice
-1350,Richmond
-1351,Rider
-1352,Robert Morris
-1353,Rutgers
-1354,S Carolina St
-1355,S Dakota St
-1356,S Illinois
-1357,Sacred Heart
-1358,Sam Houston St
-1359,Samford
-1360,San Diego
-1361,San Diego St
-1362,San Francisco
-1363,San Jose St
-1364,Santa Barbara
-1365,Santa Clara
-1366,Savannah St
-1367,SC Upstate
-1368,SE Louisiana
-1369,SE Missouri St
-1370,Seattle
-1371,Seton Hall
-1372,SF Austin
-1373,Siena
-1374,SMU
-1375,South Alabama
-1376,South Carolina
-1377,South Dakota
-1378,South Florida
-1379,Southern Miss
-1380,Southern Univ
-1381,Southern Utah
-1382,St Bonaventure
-1383,St Francis NY
-1384,St Francis PA
-1385,St John's
-1386,St Joseph's PA
-1387,St Louis
-1388,St Mary's CA
-1389,St Peter's
-1390,Stanford
-1391,Stetson
-1392,Stony Brook
-1393,Syracuse
-1394,TAM C. Christi
-1395,TCU
-1396,Temple
-1397,Tennessee
-1398,Tennessee St
-1399,Tennessee Tech
-1400,Texas
-1401,Texas A&M
-1402,Texas St
-1403,Texas Tech
-1404,TN Martin
-1405,Toledo
-1406,Towson
-1407,Troy
-1408,Tulane
-1409,Tulsa
-1410,UTRGV
-1411,TX Southern
-1412,UAB
-1413,UC Davis
-1414,UC Irvine
-1415,UC Riverside
-1416,UCF
-1417,UCLA
-1418,ULL
-1419,ULM
-1420,UMBC
-1421,UNC Asheville
-1422,UNC Greensboro
-1423,UNC Wilmington
-1424,UNLV
-1425,USC
-1426,UT Arlington
-1427,UT San Antonio
-1428,Utah
-1429,Utah St
-1430,Utah Valley
-1431,UTEP
-1432,Utica
-1433,VA Commonwealth
-1434,Valparaiso
-1435,Vanderbilt
-1436,Vermont
-1437,Villanova
-1438,Virginia
-1439,Virginia Tech
-1440,VMI
-1441,W Carolina
-1442,W Illinois
-1443,WKU
-1444,W Michigan
-1445,W Salem St
-1446,W Texas A&M
-1447,Wagner
-1448,Wake Forest
-1449,Washington
-1450,Washington St
-1451,Weber St
-1452,West Virginia
-1453,WI Green Bay
-1454,WI Milwaukee
-1455,Wichita St
-1456,William & Mary
-1457,Winthrop
-1458,Wisconsin
-1459,Wofford
-1460,Wright St
-1461,Wyoming
-1462,Xavier
-1463,Yale
-1464,Youngstown St
+Team_Name,Team_Id,Nickname,Conference,Location,Home Venue,Team_Name
+Abilene Chr,1101,,,,,Abilene Chr
+Air Force,1102,Falcons,MWC,"Colorado Springs, CO",Clune Arena,Air Force
+Akron,1103,Zips,MAC,"Akron, OH",James A. Rhodes Arena,Akron
+Alabama,1104,Crimson Tide,SEC,"Tuscaloosa, AL",Coleman Coliseum,Alabama
+Alabama A&M,1105,Bulldogs,SWAC,"Normal, AL",Elmore Gymnasium,Alabama A&M
+Alabama St,1106,,,,,Alabama St
+Albany NY,1107,,,,,Albany NY
+Alcorn St,1108,,,,,Alcorn St
+Alliant Intl,1109,,,,,Alliant Intl
+American Univ,1110,,,,,American Univ
+Appalachian St,1111,,,,,Appalachian St
+Arizona,1112,Wildcats,Pac-12,"Tucson, AZ",McKale Center,Arizona
+Arizona St,1113,,,,,Arizona St
+Ark Little Rock,1114,,,,,Ark Little Rock
+Ark Pine Bluff,1115,,,,,Ark Pine Bluff
+Arkansas,1116,Razorbacks,SEC,"Fayetteville, AR",Bud Walton Arena,Arkansas
+Arkansas St,1117,,,,,Arkansas St
+Armstrong St,1118,,,,,Armstrong St
+Army,1119,Black Knights,Patriot,"West Point, NY",Christl Arena,Army
+Auburn,1120,Tigers,SEC,"Auburn, AL",Auburn Arena,Auburn
+Augusta,1121,,,,,Augusta
+Austin Peay,1122,Governors,OVC,"Clarksville, TN",Dave Aaron Arena,Austin Peay
+Ball St,1123,,,,,Ball St
+Baylor,1124,Bears,Big 12,"Waco, TX",Ferrell Center,Baylor
+Belmont,1125,Bruins,OVC,"Nashville, TN",Curb Event Center,Belmont
+Bethune-Cookman,1126,Wildcats,MEAC,"Daytona Beach, FL",Moore Gymnasium,Bethune-Cookman
+Binghamton,1127,Bearcats,AM East,"Vestal, NY",Binghamton University Events Center,Binghamton
+Birmingham So,1128,,,,,Birmingham So
+Boise St,1129,,,,,Boise St
+Boston College,1130,Eagles,ACC,"Chestnut Hill, MA",Conte Forum,Boston College
+Boston Univ,1131,,,,,Boston Univ
+Bowling Green,1132,Falcons,MAC,"Bowling Green, OH",Stroh Center,Bowling Green
+Bradley,1133,Braves,MVC,"Peoria, IL",Carver Arena,Bradley
+Brooklyn,1134,,,,,Brooklyn
+Brown,1135,Bears,Ivy,"Providence, RI",Pizzitola Sports Center,Brown
+Bryant,1136,Bulldogs,NEC,"Smithfield, RI",Chace Athletic Center,Bryant
+Bucknell,1137,Bison,Patriot,"Lewisburg, PA",Sojka Pavilion,Bucknell
+Buffalo,1138,Bulls,MAC,"Buffalo, NY",Alumni Arena,Buffalo
+Butler,1139,Bulldogs,Big East,"Indianapolis, IN",Hinkle Fieldhouse,Butler
+BYU,1140,,,,,BYU
+C Michigan,1141,,,,,C Michigan
+Cal Poly SLO,1142,,,,,Cal Poly SLO
+California,1143,Golden Bears,Pac-12,"Berkeley, CA",Haas Pavilion,California
+Campbell,1144,Fighting Camels,Big South,"Buies Creek, NC",John W. Pope Jr. Convocation Center,Campbell
+Canisius,1145,Golden Griffins,MAAC,"Buffalo, NY",Koessler Athletic Center,Canisius
+Cent Arkansas,1146,,,,,Cent Arkansas
+Centenary,1147,,,,,Centenary
+Central Conn,1148,,,,,Central Conn
+Charleston So,1149,,,,,Charleston So
+Charlotte,1150,49ers,C-USA,"Charlotte, NC",Dale F. Halton Arena,Charlotte
+Chattanooga,1151,Mocs,SoCon,"Chattanooga, TN",McKenzie Arena,Chattanooga
+Chicago St,1152,,,,,Chicago St
+Cincinnati,1153,Bearcats,AAC,"Cincinnati, OH",Fifth Third Arena,Cincinnati
+Citadel,1154,Bulldogs,SoCon,"Charleston, SC",McAlister Field House,Citadel
+Clemson,1155,Tigers,ACC,"Clemson, SC",Littlejohn Coliseum,Clemson
+Cleveland St,1156,,,,,Cleveland St
+Coastal Car,1157,,,,,Coastal Car
+Col Charleston,1158,,,,,Col Charleston
+Colgate,1159,Raiders,Patriot,"Hamilton, NY",Cotterell Court,Colgate
+Colorado,1160,Buffaloes,Pac-12,"Boulder, CO",Coors Events Center,Colorado
+Colorado St,1161,,,,,Colorado St
+Columbia,1162,Lions,Ivy,"New York, NY",Levien Gymnasium,Columbia
+Connecticut,1163,Huskies,AAC,"Hartford, CT",XL Center,Connecticut
+Coppin St,1164,,,,,Coppin St
+Cornell,1165,Big Red,Ivy,"Ithaca, NY",Newman Arena,Cornell
+Creighton,1166,Bluejays,Big East,"Omaha, NE",CenturyLink Center Omaha,Creighton
+CS Bakersfield,1167,,,,,CS Bakersfield
+CS Fullerton,1168,,,,,CS Fullerton
+CS Northridge,1169,,,,,CS Northridge
+CS Sacramento,1170,,,,,CS Sacramento
+Dartmouth,1171,Big Green,Ivy,"Hanover, NH",Leede Arena,Dartmouth
+Davidson,1172,Wildcats,A-10,"Davidson, NC",John M. Belk Arena,Davidson
+Dayton,1173,Flyers,A-10,"Dayton, OH",University of Dayton Arena,Dayton
+Delaware,1174,Fightin Blue Hens,CAA,"Newark, DE",Bob Carpenter Center,Delaware
+Delaware St,1175,,,,,Delaware St
+Denver,1176,Pioneers,Summit,"Denver, CO",Magness Arena,Denver
+DePaul,1177,Blue Demons,Big East,"Rosemont, IL",Allstate Arena,DePaul
+Detroit,1178,Titans,Horizon,"Detroit, MI",Calihan Hall,Detroit
+Drake,1179,Bulldogs,MVC,"Des Moines, IA",Knapp Center,Drake
+Drexel,1180,Dragons,CAA,"Philadelphia, PA",Daskalakis Athletic Center,Drexel
+Duke,1181,Blue Devils,ACC,"Durham, NC",Cameron Indoor Stadium,Duke
+Duquesne,1182,Dukes,A-10,"Pittsburgh, PA",A.J. Palumbo Center,Duquesne
+E Illinois,1183,,,,,E Illinois
+E Kentucky,1184,,,,,E Kentucky
+E Michigan,1185,,,,,E Michigan
+E Washington,1186,,,,,E Washington
+East Carolina,1187,Pirates,AAC,"Greenville, NC",Williams Arena at Minges Coliseum,East Carolina
+Edwardsville,1188,,,,,Edwardsville
+Elon,1189,Phoenix,CAA,"Elon, NC",Alumni Gymnasium,Elon
+ETSU,1190,,,,,ETSU
+Evansville,1191,Aces,MVC,"Evansville, IN",Ford Center,Evansville
+F Dickinson,1192,,,,,F Dickinson
+Fairfield,1193,Stags,MAAC,"Bridgeport, CT",Webster Bank Arena,Fairfield
+FL Atlantic,1194,,,,,FL Atlantic
+FL Gulf Coast,1195,,,,,FL Gulf Coast
+Florida,1196,Gators,SEC,"Gainesville, FL",Stephen C. O'Connell Center,Florida
+Florida A&M,1197,Rattlers,MEAC,"Tallahassee, FL",Alfred Lawson Center,Florida A&M
+Florida Intl,1198,,,,,Florida Intl
+Florida St,1199,,,,,Florida St
+Fordham,1200,Rams,A-10,"Bronx, NY",Rose Hill Gymnasium,Fordham
+Fresno St,1201,,,,,Fresno St
+Furman,1202,Paladins,SoCon,"Greenville, SC",Timmons Arena,Furman
+G Washington,1203,,,,,G Washington
+Ga Southern,1204,,,,,Ga Southern
+Gardner Webb,1205,,,,,Gardner Webb
+George Mason,1206,Patriots,A-10,"Fairfax, VA",EagleBank Arena,George Mason
+Georgetown,1207,Hoyas,Big East,"Washington, DC",Verizon Center,Georgetown
+Georgia,1208,Bulldogs,SEC,"Athens, GA",Stegeman Coliseum,Georgia
+Georgia St,1209,,,,,Georgia St
+Georgia Tech,1210,Yellow Jackets,ACC,"Atlanta, GA",Hank McCamish Pavilion,Georgia Tech
+Gonzaga,1211,Bulldogs,WCC,"Spokane, WA",McCarthey Athletic Center,Gonzaga
+Grambling,1212,,,,,Grambling
+Grand Canyon,1213,Antelopes,WAC,"Phoenix, AZ",GCU Arena,Grand Canyon
+Hampton,1214,Pirates,MEAC,"Hampton, VA",Hampton Convocation Center,Hampton
+Hardin-Simmons,1215,,,,,Hardin-Simmons
+Hartford,1216,Hawks,AM East,"Hartford, CT",Chase Arena,Hartford
+Harvard,1217,Crimson,Ivy,"Boston, MA",Lavietes Pavilion,Harvard
+Hawaii,1218,Warriors,Big West,"Honolulu, HI",Stan Sheriff Center,Hawaii
+High Point,1219,Panthers,Big South,"High Point, NC",Millis Athletic Convocation Center,High Point
+Hofstra,1220,Pride,CAA,"Hempstead, NY",David S. Mack Sports Complex,Hofstra
+Holy Cross,1221,Crusaders,Patriot,"Worcester, MA",Hart Center,Holy Cross
+Houston,1222,Cougars,AAC,"Houston, TX",Hofheinz Pavilion,Houston
+Houston Bap,1223,,,,,Houston Bap
+Howard,1224,Bison,MEAC,"Washington, DC",Burr Gymnasium,Howard
+Idaho,1225,Vandals,Big Sky,"Moscow, ID",Kibbie Dome,Idaho
+Idaho St,1226,,,,,Idaho St
+IL Chicago,1227,,,,,IL Chicago
+Illinois,1228,Fighting Illini,Big Ten,"Champaign, IL",State Farm Center,Illinois
+Illinois St,1229,,,,,Illinois St
+Incarnate Word,1230,Cardinals,Southland,"San Antonio, TX",McDermott Convocation Center,Incarnate Word
+Indiana,1231,Hoosiers,Big Ten,"Bloomington, IN",Assembly Hall,Indiana
+Indiana St,1232,,,,,Indiana St
+Iona,1233,Gaels,MAAC,"New Rochelle, NY",Hynes Athletic Center,Iona
+Iowa,1234,Hawkeyes,Big Ten,"Iowa City, IA",Carver-Hawkeye Arena,Iowa
+Iowa St,1235,,,,,Iowa St
+IPFW,1236,,,,,IPFW
+IUPUI,1237,Jaguars,Summit,"Indianapolis, IN",Indiana Farmers Coliseum,IUPUI
+Jackson St,1238,,,,,Jackson St
+Jacksonville,1239,Dolphins,A-Sun,"Jacksonville, FL",Jacksonville Veterans Memorial Arena,Jacksonville
+Jacksonville St,1240,,,,,Jacksonville St
+James Madison,1241,Dukes,CAA,"Harrisonburg, VA",James Madison University Convocation Center,James Madison
+Kansas,1242,Jayhawks,Big 12,"Lawrence, KS",Phog Allen Fieldhouse,Kansas
+Kansas St,1243,,,,,Kansas St
+Kennesaw,1244,,,,,Kennesaw
+Kent,1245,,,,,Kent
+Kentucky,1246,Wildcats,SEC,"Lexington, KY",Rupp Arena,Kentucky
+La Salle,1247,Explorers,A-10,"Philadelphia, PA",Tom Gola Arena,La Salle
+Lafayette,1248,Leopards,Patriot,"Easton, PA",Kirby Sports Center,Lafayette
+Lamar,1249,Cardinals,Southland,"Beaumont, TX",Montagne Center,Lamar
+Lehigh,1250,Mountain Hawks,Patriot,"Bethlehem, PA",Stabler Arena,Lehigh
+Liberty,1251,Flames,Big South,"Lynchburg, VA",Vines Center,Liberty
+Lipscomb,1252,Bisons,A-Sun,"Nashville, TN",Allen Arena,Lipscomb
+Long Beach St,1253,,,,,Long Beach St
+Long Island,1254,Brooklyn Blackbirds,NEC,"Brooklyn, NY",Steinberg Wellness Center,Long Island
+Longwood,1255,Lancers,Big South,"Farmville, VA",Willett Hall,Longwood
+Louisiana Tech,1256,Bulldogs,C-USA,"Ruston, LA",Thomas Assembly Center,Louisiana Tech
+Louisville,1257,Cardinals,ACC,"Louisville, KY",KFC Yum! Center,Louisville
+Loy Marymount,1258,,,,,Loy Marymount
+Loyola MD,1259,,,,,Loyola MD
+Loyola-Chicago,1260,,,,,Loyola-Chicago
+LSU,1261,Tigers,SEC,"Baton Rouge, LA",Pete Maravich Assembly Center,LSU
+MA Lowell,1262,,,,,MA Lowell
+Maine,1263,Black Bears,AM East,"Orono, ME",Alfond Arena,Maine
+Manhattan,1264,Jaspers,MAAC,"Riverdale, NY",Draddy Gymnasium,Manhattan
+Marist,1265,Red Foxes,MAAC,"Poughkeepsie, NY",McCann Field House,Marist
+Marquette,1266,Golden Eagles,Big East,"Milwaukee, WI",BMO Harris Bradley Center,Marquette
+Marshall,1267,Thundering Herd,C-USA,"Huntington, WV",Cam Henderson Center,Marshall
+Maryland,1268,Terrapins,Big Ten,"College Park, MD",XFINITY Center,Maryland
+Massachusetts,1269,Minutemen,A-10,"Amherst, MA",Mullins Center,Massachusetts
+McNeese St,1270,,,,,McNeese St
+MD E Shore,1271,,,,,MD E Shore
+Memphis,1272,Tigers,AAC,"Memphis, TN",FedExForum,Memphis
+Mercer,1273,Bears,SoCon,"Macon, GA",Hawkins Arena,Mercer
+Miami FL,1274,,,,,Miami FL
+Miami OH,1275,,,,,Miami OH
+Michigan,1276,Wolverines,Big Ten,"Ann Arbor, MI",Crisler Arena,Michigan
+Michigan St,1277,,,,,Michigan St
+Minnesota,1278,Gophers,Big Ten,"Minneapolis, MN",Williams Arena,Minnesota
+Mississippi,1279,,,,,Mississippi
+Mississippi St,1280,,,,,Mississippi St
+Missouri,1281,Tigers,SEC,"Columbia, MO",Mizzou Arena,Missouri
+Missouri KC,1282,,,,,Missouri KC
+Missouri St,1283,,,,,Missouri St
+Monmouth NJ,1284,,,,,Monmouth NJ
+Montana,1285,Grizzlies,Big Sky,"Missoula, MT",Dahlberg Arena,Montana
+Montana St,1286,,,,,Montana St
+Morehead St,1287,,,,,Morehead St
+Morgan St,1288,,,,,Morgan St
+Morris Brown,1289,,,,,Morris Brown
+MS Valley St,1290,,,,,MS Valley St
+Mt St Mary's,1291,,,,,Mt St Mary's
+MTSU,1292,,,,,MTSU
+Murray St,1293,,,,,Murray St
+N Colorado,1294,,,,,N Colorado
+N Dakota St,1295,,,,,N Dakota St
+N Illinois,1296,,,,,N Illinois
+N Kentucky,1297,,,,,N Kentucky
+Navy,1298,Midshipmen,Patriot,"Annapolis, MD",Alumni Hall,Navy
+NC A&T,1299,,,,,NC A&T
+NC Central,1300,,,,,NC Central
+NC State,1301,Wolfpack,ACC,"Raleigh, NC",PNC Arena,NC State
+NE Illinois,1302,,,,,NE Illinois
+NE Omaha,1303,,,,,NE Omaha
+Nebraska,1304,Cornhuskers,Big Ten,"Lincoln, NE",Pinnacle Bank Arena,Nebraska
+Nevada,1305,Wolf Pack,MWC,"Reno, NV",Lawlor Events Center,Nevada
+New Hampshire,1306,Wildcats,AM East,"Durham, NH",Lundholm Gym,New Hampshire
+New Mexico,1307,Lobos,MWC,"Albuquerque, NM",University Arena,New Mexico
+New Mexico St,1308,,,,,New Mexico St
+New Orleans,1309,Privateers,Southland,"New Orleans, LA",Lakefront Arena,New Orleans
+Niagara,1310,Purple Eagles,MAAC,"Lewiston, NY",Gallagher Center,Niagara
+Nicholls St,1311,,,,,Nicholls St
+NJIT,1312,,,,,NJIT
+Norfolk St,1313,,,,,Norfolk St
+North Carolina,1314,Tar Heels,ACC,"Chapel Hill, NC",Dean Smith Center,North Carolina
+North Dakota,1315,Fighting Hawks,Big Sky,"Grand Forks, ND",Betty Engelstad Sioux Center,North Dakota
+North Florida,1316,Ospreys,A-Sun,"Jacksonville, FL",UNF Arena,North Florida
+North Texas,1317,Mean Green,C-USA,"Denton, TX",UNT Coliseum,North Texas
+Northeastern,1318,Huskies,CAA,"Boston, MA",Matthews Arena,Northeastern
+Northern Arizona,1319,Lumberjacks,Big Sky,"Flagstaff, AZ",Walkup Skydome,Northern Arizona
+Northern Iowa,1320,Panthers,MVC,"Cedar Falls, IA",UNI-Dome,Northern Iowa
+Northwestern,1321,Wildcats,Big Ten,"Evanston, IL",Welsh-Ryan Arena,Northwestern
+Northwestern LA,1322,,,,,Northwestern LA
+Notre Dame,1323,Fighting Irish,ACC,"Notre Dame, IN",Edmund P. Joyce Center,Notre Dame
+Oakland,1324,Golden Grizzlies,Horizon,"Rochester, MI",Athletics Center O'Rena,Oakland
+Ohio,1325,Bobcats,MAC,"Athens, OH",Convocation Center,Ohio
+Ohio St,1326,,,,,Ohio St
+Okla City,1327,,,,,Okla City
+Oklahoma,1328,Sooners,Big 12,"Norman, OK",Lloyd Noble Center,Oklahoma
+Oklahoma St,1329,,,,,Oklahoma St
+Old Dominion,1330,Monarchs,C-USA,"Norfolk, VA",Ted Constant Convocation Center,Old Dominion
+Oral Roberts,1331,Golden Eagles,Summit,"Tulsa, OK",Mabee Center,Oral Roberts
+Oregon,1332,Ducks,Pac-12,"Eugene, OR",Matthew Knight Arena,Oregon
+Oregon St,1333,,,,,Oregon St
+Pacific,1334,Tigers,WCC,"Stockton, CA",Alex G. Spanos Center,Pacific
+Penn,1335,,,,,Penn
+Penn St,1336,,,,,Penn St
+Pepperdine,1337,Waves,WCC,"Malibu, CA",Firestone Fieldhouse,Pepperdine
+Pittsburgh,1338,Panthers,ACC,"Pittsburgh, PA",Petersen Events Center,Pittsburgh
+Portland,1339,Pilots,WCC,"Portland, OR",Chiles Center,Portland
+Portland St,1340,,,,,Portland St
+Prairie View,1341,,,,,Prairie View
+Presbyterian,1342,Blue Hose,Big South,"Clinton, SC",Furman Pinson Arena,Presbyterian
+Princeton,1343,Tigers,Ivy,"Princeton, NJ",Jadwin Gymnasium,Princeton
+Providence,1344,Friars,Big East,"Providence, RI",Dunkin Donuts Center,Providence
+Purdue,1345,Boilermakers,Big Ten,"West Lafayette, IN",Mackey Arena,Purdue
+Quinnipiac,1346,Bobcats,MAAC,"Hamden, CT",TD Bank Sports Center,Quinnipiac
+Radford,1347,Highlanders,Big South,"Radford, VA",Dedmon Center,Radford
+Rhode Island,1348,Rams,A-10,"Kingston, RI",Ryan Center,Rhode Island
+Rice,1349,Owls,C-USA,"Houston, TX",Tudor Fieldhouse,Rice
+Richmond,1350,Spiders,A-10,"Richmond, VA",Robins Center,Richmond
+Rider,1351,Broncs,MAAC,"Lawrenceville, NJ",Alumni Gymnasium,Rider
+Robert Morris,1352,Colonials,NEC,"Moon Township, PA",Sewall Center,Robert Morris
+Rutgers,1353,Scarlet Knights,Big Ten,"Piscataway, NJ",Louis Brown Athletic Center,Rutgers
+S Carolina St,1354,,,,,S Carolina St
+S Dakota St,1355,,,,,S Dakota St
+S Illinois,1356,,,,,S Illinois
+Sacred Heart,1357,Pioneers,NEC,"Fairfield, CT",William H. Pitt Center,Sacred Heart
+Sam Houston St,1358,,,,,Sam Houston St
+Samford,1359,Bulldogs,SoCon,"Homewood, AL",Pete Hanna Center,Samford
+San Diego,1360,Toreos,WCC,"San Diego, CA",Jenny Craig Pavilion,San Diego
+San Diego St,1361,,,,,San Diego St
+San Francisco,1362,Dons,WCC,"San Francisco, CA",War Memorial Gymnasium,San Francisco
+San Jose St,1363,,,,,San Jose St
+Santa Barbara,1364,,,,,Santa Barbara
+Santa Clara,1365,Broncos,WCC,"Santa Clara, CA",Leavey Center,Santa Clara
+Savannah St,1366,,,,,Savannah St
+SC Upstate,1367,,,,,SC Upstate
+SE Louisiana,1368,,,,,SE Louisiana
+SE Missouri St,1369,,,,,SE Missouri St
+Seattle,1370,Redhawks,WAC,"Seattle, WA",KeyArena,Seattle
+Seton Hall,1371,Pirates,Big East,"Newark, NJ",Prudential Center,Seton Hall
+SF Austin,1372,,,,,SF Austin
+Siena,1373,Saints,MAAC,"Albany, NY",Times Union Center,Siena
+SMU,1374,,,,,SMU
+South Alabama,1375,Jaguars,Sun Belt,"Mobile, AL",Mitchell Center,South Alabama
+South Carolina,1376,Gamecocks,SEC,"Columbia, SC",Colonial Life Arena,South Carolina
+South Dakota,1377,Coyotes,Summit,"Vermillion, SD",DakotaDome,South Dakota
+South Florida,1378,Bulls,AAC,"Tampa, FL",USF Sun Dome,South Florida
+Southern Miss,1379,,,,,Southern Miss
+Southern Univ,1380,,,,,Southern Univ
+Southern Utah,1381,Thunderbirds,Big Sky,"Cedar City, UT",Centrum Arena,Southern Utah
+St Bonaventure,1382,,,,,St Bonaventure
+St Francis NY,1383,,,,,St Francis NY
+St Francis PA,1384,,,,,St Francis PA
+St John's,1385,,,,,St John's
+St Joseph's PA,1386,,,,,St Joseph's PA
+St Louis,1387,,,,,St Louis
+St Mary's CA,1388,,,,,St Mary's CA
+St Peter's,1389,,,,,St Peter's
+Stanford,1390,Cardinal,Pac-12,"Stanford, CA",Maples Pavilion,Stanford
+Stetson,1391,Hatters,A-Sun,"DeLand, FL",Edmunds Center,Stetson
+Stony Brook,1392,Seawolves,AM East,"Stony Brook, NY",Island Federal Credit Union Arena,Stony Brook
+Syracuse,1393,Orange,ACC,"Syracuse, NY",Carrier Dome,Syracuse
+TAM C. Christi,1394,,,,,TAM C. Christi
+TCU,1395,,,,,TCU
+Temple,1396,Owls,AAC,"Philadelphia, PA",Liacouras Center,Temple
+Tennessee,1397,Volunteers,SEC,"Knoxville, TN",Thompson-Boling Center,Tennessee
+Tennessee St,1398,,,,,Tennessee St
+Tennessee Tech,1399,Golden Eagles,OVC,"Cookeville, TN",Eblen Center,Tennessee Tech
+Texas,1400,Longhorns,Big 12,"Austin, TX",Frank Erwin Center,Texas
+Texas A&M,1401,Aggies,SEC,"College Station, TX",Reed Arena,Texas A&M
+Texas St,1402,,,,,Texas St
+Texas Tech,1403,Red Raiders,Big 12,"Lubbock, TX",United Supermarkets Arena,Texas Tech
+TN Martin,1404,,,,,TN Martin
+Toledo,1405,Rockets,MAC,"Toledo, OH",Savage Arena,Toledo
+Towson,1406,Tigers,CAA,"Towson, MD",SECU Arena,Towson
+Troy,1407,Trojans,Sun Belt,"Troy, AL",Trojan Arena,Troy
+Tulane,1408,Green Wave,AAC,"New Orleans, LA",Devlin Fieldhouse,Tulane
+Tulsa,1409,Golden Hurricane,AAC,"Tulsa, OK",Reynolds Center,Tulsa
+UTRGV,1410,,,,,UTRGV
+TX Southern,1411,,,,,TX Southern
+UAB,1412,Blazers,C-USA,"Birmingham, AL",Bartow Arena,UAB
+UC Davis,1413,Aggies,Big West,"Davis, CA",The Pavilion,UC Davis
+UC Irvine,1414,Anteaters,Big West,"Irvine, CA",Bren Events Center,UC Irvine
+UC Riverside,1415,Highlanders,Big West,"Riverside, CA",UC Riverside Student Recreation Center,UC Riverside
+UCF,1416,Knights,AAC,"Orlando, FL",CFE Federal Credit Union Arena,UCF
+UCLA,1417,Bruins,Pac-12,"Los Angeles, CA",Pauley Pavilion,UCLA
+ULL,1418,,,,,ULL
+ULM,1419,,,,,ULM
+UMBC,1420,Retrievers,AM East,"Catonville, MD",Retriever Activities Center,UMBC
+UNC Asheville,1421,Bulldogs,Big South,"Asheville, NC",Kimmel Arena,UNC Asheville
+UNC Greensboro,1422,Spartans,SoCon,"Greensboro, NC",Greensboro Coliseum,UNC Greensboro
+UNC Wilmington,1423,Seahawks,CAA,"Wilmington, NC",Trask Coliseum,UNC Wilmington
+UNLV,1424,Runnin' Rebels,MWC,"Las Vegas, NV",Thomas & Mack Center,UNLV
+USC,1425,Trojans,Pac-12,"Los Angeles, CA",Galen Center,USC
+UT Arlington,1426,,,,,UT Arlington
+UT San Antonio,1427,,,,,UT San Antonio
+Utah,1428,Utes,Pac-12,"Salt Lake City, UT",Jon M. Huntsman Center,Utah
+Utah St,1429,,,,,Utah St
+Utah Valley,1430,Wolverines,WAC,"Orem, UT",UCCU Center,Utah Valley
+UTEP,1431,Miners,C-USA,"El Paso, TX",Don Haskins Center,UTEP
+Utica,1432,,,,,Utica
+VA Commonwealth,1433,,,,,VA Commonwealth
+Valparaiso,1434,Crusaders,Horizon,"Valparaiso, IN",Athletics-Recreation Center,Valparaiso
+Vanderbilt,1435,Commodores,SEC,"Nashville, TN",Memorial Gymnasium,Vanderbilt
+Vermont,1436,Catamounts,AM East,"Burlington, VT",Patrick Gym,Vermont
+Villanova,1437,Wildcats,Big East,"Villanova, PA",The Pavilion,Villanova
+Virginia,1438,Cavaliers,ACC,"Charlottesville, VA",John Paul Jones Arena,Virginia
+Virginia Tech,1439,Hokies,ACC,"Blacksburg, VA",Cassell Coliseum,Virginia Tech
+VMI,1440,,,,,VMI
+W Carolina,1441,,,,,W Carolina
+W Illinois,1442,,,,,W Illinois
+WKU,1443,,,,,WKU
+W Michigan,1444,,,,,W Michigan
+W Salem St,1445,,,,,W Salem St
+W Texas A&M,1446,,,,,W Texas A&M
+Wagner,1447,Seahawks,NEC,"Staten Island, NY",Spiro Sports Center,Wagner
+Wake Forest,1448,Demon Deacons,ACC,"Winston-Salem, NC",Lawrence Joel Veterans Memorial Coliseum,Wake Forest
+Washington,1449,Huskies,Pac-12,"Seattle, WA",Alaska Airlines Arena at Hec Edmundson Pavilion,Washington
+Washington St,1450,,,,,Washington St
+Weber St,1451,,,,,Weber St
+West Virginia,1452,Mountaineers,Big 12,"Morgantown, WV",WVU Coliseum,West Virginia
+WI Green Bay,1453,,,,,WI Green Bay
+WI Milwaukee,1454,,,,,WI Milwaukee
+Wichita St,1455,,,,,Wichita St
+William & Mary,1456,Tribe,CAA,"Williamsburg, VA",Kaplan Arena,William & Mary
+Winthrop,1457,Eagles,Big South,"Rock Hill, SC",Winthrop Coliseum,Winthrop
+Wisconsin,1458,Badgers,Big Ten,"Madison, WI",Kohl Center,Wisconsin
+Wofford,1459,Terriers,SoCon,"Spartanburg, SC",Benjamin Johnson Arena,Wofford
+Wright St,1460,,,,,Wright St
+Wyoming,1461,Cowboys,MWC,"Laramie, WY",Arena-Auditorium,Wyoming
+Xavier,1462,Musketeers,Big East,"Cincinnati, OH",Cintas Center,Xavier
+Yale,1463,Bulldogs,Ivy,"New Haven, CT",John J. Lee Amphitheater,Yale
+Youngstown St,1464,,,,,Youngstown St
