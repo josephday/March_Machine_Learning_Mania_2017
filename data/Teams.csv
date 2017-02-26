@@ -1,365 +1,1 @@
-,Team_Id,Conference,Team_Name.1
-0,1101,,Abilene Chr
-1,1102,MWC,Air Force
-2,1103,MAC,Akron
-3,1104,SEC,Alabama
-4,1105,SWAC,Alabama A&M
-5,1106,,Alabama St
-6,1107,,Albany NY
-7,1108,,Alcorn St
-8,1109,,Alliant Intl
-9,1110,,American Univ
-10,1111,,Appalachian St
-11,1112,Pac-12,Arizona
-12,1113,,Arizona St
-13,1114,,Ark Little Rock
-14,1115,,Ark Pine Bluff
-15,1116,SEC,Arkansas
-16,1117,,Arkansas St
-17,1118,,Armstrong St
-18,1119,Patriot,Army
-19,1120,SEC,Auburn
-20,1121,,Augusta
-21,1122,OVC,Austin Peay
-22,1123,,Ball St
-23,1124,Big 12,Baylor
-24,1125,OVC,Belmont
-25,1126,MEAC,Bethune-Cookman
-26,1127,AM East,Binghamton
-27,1128,,Birmingham So
-28,1129,,Boise St
-29,1130,ACC,Boston College
-30,1131,,Boston Univ
-31,1132,MAC,Bowling Green
-32,1133,MVC,Bradley
-33,1134,,Brooklyn
-34,1135,Ivy,Brown
-35,1136,NEC,Bryant
-36,1137,Patriot,Bucknell
-37,1138,MAC,Buffalo
-38,1139,Big East,Butler
-39,1140,,BYU
-40,1141,,C Michigan
-41,1142,,Cal Poly SLO
-42,1143,Pac-12,California
-43,1144,Big South,Campbell
-44,1145,MAAC,Canisius
-45,1146,,Cent Arkansas
-46,1147,,Centenary
-47,1148,,Central Conn
-48,1149,,Charleston So
-49,1150,C-USA,Charlotte
-50,1151,SoCon,Chattanooga
-51,1152,,Chicago St
-52,1153,AAC,Cincinnati
-53,1154,SoCon,Citadel
-54,1155,ACC,Clemson
-55,1156,,Cleveland St
-56,1157,,Coastal Car
-57,1158,,Col Charleston
-58,1159,Patriot,Colgate
-59,1160,Pac-12,Colorado
-60,1161,,Colorado St
-61,1162,Ivy,Columbia
-62,1163,AAC,Connecticut
-63,1164,,Coppin St
-64,1165,Ivy,Cornell
-65,1166,Big East,Creighton
-66,1167,,CS Bakersfield
-67,1168,,CS Fullerton
-68,1169,,CS Northridge
-69,1170,,CS Sacramento
-70,1171,Ivy,Dartmouth
-71,1172,A-10,Davidson
-72,1173,A-10,Dayton
-73,1174,CAA,Delaware
-74,1175,,Delaware St
-75,1176,Summit,Denver
-76,1177,Big East,DePaul
-77,1178,Horizon,Detroit
-78,1179,MVC,Drake
-79,1180,CAA,Drexel
-80,1181,ACC,Duke
-81,1182,A-10,Duquesne
-82,1183,,E Illinois
-83,1184,,E Kentucky
-84,1185,,E Michigan
-85,1186,,E Washington
-86,1187,AAC,East Carolina
-87,1188,,Edwardsville
-88,1189,CAA,Elon
-89,1190,,ETSU
-90,1191,MVC,Evansville
-91,1192,,F Dickinson
-92,1193,MAAC,Fairfield
-93,1194,,FL Atlantic
-94,1195,,FL Gulf Coast
-95,1196,SEC,Florida
-96,1197,MEAC,Florida A&M
-97,1198,,Florida Intl
-98,1199,,Florida St
-99,1200,A-10,Fordham
-100,1201,,Fresno St
-101,1202,SoCon,Furman
-102,1203,,G Washington
-103,1204,,Ga Southern
-104,1205,,Gardner Webb
-105,1206,A-10,George Mason
-106,1207,Big East,Georgetown
-107,1208,SEC,Georgia
-108,1209,,Georgia St
-109,1210,ACC,Georgia Tech
-110,1211,WCC,Gonzaga
-111,1212,,Grambling
-112,1213,WAC,Grand Canyon
-113,1214,MEAC,Hampton
-114,1215,,Hardin-Simmons
-115,1216,AM East,Hartford
-116,1217,Ivy,Harvard
-117,1218,Big West,Hawaii
-118,1219,Big South,High Point
-119,1220,CAA,Hofstra
-120,1221,Patriot,Holy Cross
-121,1222,AAC,Houston
-122,1223,,Houston Bap
-123,1224,MEAC,Howard
-124,1225,Big Sky,Idaho
-125,1226,,Idaho St
-126,1227,,IL Chicago
-127,1228,Big Ten,Illinois
-128,1229,,Illinois St
-129,1230,Southland,Incarnate Word
-130,1231,Big Ten,Indiana
-131,1232,,Indiana St
-132,1233,MAAC,Iona
-133,1234,Big Ten,Iowa
-134,1235,,Iowa St
-135,1236,,IPFW
-136,1237,Summit,IUPUI
-137,1238,,Jackson St
-138,1239,A-Sun,Jacksonville
-139,1240,,Jacksonville St
-140,1241,CAA,James Madison
-141,1242,Big 12,Kansas
-142,1243,,Kansas St
-143,1244,,Kennesaw
-144,1245,,Kent
-145,1246,SEC,Kentucky
-146,1247,A-10,La Salle
-147,1248,Patriot,Lafayette
-148,1249,Southland,Lamar
-149,1250,Patriot,Lehigh
-150,1251,Big South,Liberty
-151,1252,A-Sun,Lipscomb
-152,1253,,Long Beach St
-153,1254,NEC,Long Island
-154,1255,Big South,Longwood
-155,1256,C-USA,Louisiana Tech
-156,1257,ACC,Louisville
-157,1258,,Loy Marymount
-158,1259,,Loyola MD
-159,1260,,Loyola-Chicago
-160,1261,SEC,LSU
-161,1262,,MA Lowell
-162,1263,AM East,Maine
-163,1264,MAAC,Manhattan
-164,1265,MAAC,Marist
-165,1266,Big East,Marquette
-166,1267,C-USA,Marshall
-167,1268,Big Ten,Maryland
-168,1269,A-10,Massachusetts
-169,1270,,McNeese St
-170,1271,,MD E Shore
-171,1272,AAC,Memphis
-172,1273,SoCon,Mercer
-173,1274,,Miami FL
-174,1275,,Miami OH
-175,1276,Big Ten,Michigan
-176,1277,,Michigan St
-177,1278,Big Ten,Minnesota
-178,1279,,Mississippi
-179,1280,,Mississippi St
-180,1281,SEC,Missouri
-181,1282,,Missouri KC
-182,1283,,Missouri St
-183,1284,,Monmouth NJ
-184,1285,Big Sky,Montana
-185,1286,,Montana St
-186,1287,,Morehead St
-187,1288,,Morgan St
-188,1289,,Morris Brown
-189,1290,,MS Valley St
-190,1291,,Mt St Mary's
-191,1292,,MTSU
-192,1293,,Murray St
-193,1294,,N Colorado
-194,1295,,N Dakota St
-195,1296,,N Illinois
-196,1297,,N Kentucky
-197,1298,Patriot,Navy
-198,1299,,NC A&T
-199,1300,,NC Central
-200,1301,ACC,NC State
-201,1302,,NE Illinois
-202,1303,,NE Omaha
-203,1304,Big Ten,Nebraska
-204,1305,MWC,Nevada
-205,1306,AM East,New Hampshire
-206,1307,MWC,New Mexico
-207,1308,,New Mexico St
-208,1309,Southland,New Orleans
-209,1310,MAAC,Niagara
-210,1311,,Nicholls St
-211,1312,,NJIT
-212,1313,,Norfolk St
-213,1314,ACC,North Carolina
-214,1315,Big Sky,North Dakota
-215,1316,A-Sun,North Florida
-216,1317,C-USA,North Texas
-217,1318,CAA,Northeastern
-218,1319,Big Sky,Northern Arizona
-219,1320,MVC,Northern Iowa
-220,1321,Big Ten,Northwestern
-221,1322,,Northwestern LA
-222,1323,ACC,Notre Dame
-223,1324,Horizon,Oakland
-224,1325,MAC,Ohio
-225,1326,,Ohio St
-226,1327,,Okla City
-227,1328,Big 12,Oklahoma
-228,1329,,Oklahoma St
-229,1330,C-USA,Old Dominion
-230,1331,Summit,Oral Roberts
-231,1332,Pac-12,Oregon
-232,1333,,Oregon St
-233,1334,WCC,Pacific
-234,1335,,Penn
-235,1336,,Penn St
-236,1337,WCC,Pepperdine
-237,1338,ACC,Pittsburgh
-238,1339,WCC,Portland
-239,1340,,Portland St
-240,1341,,Prairie View
-241,1342,Big South,Presbyterian
-242,1343,Ivy,Princeton
-243,1344,Big East,Providence
-244,1345,Big Ten,Purdue
-245,1346,MAAC,Quinnipiac
-246,1347,Big South,Radford
-247,1348,A-10,Rhode Island
-248,1349,C-USA,Rice
-249,1350,A-10,Richmond
-250,1351,MAAC,Rider
-251,1352,NEC,Robert Morris
-252,1353,Big Ten,Rutgers
-253,1354,,S Carolina St
-254,1355,,S Dakota St
-255,1356,,S Illinois
-256,1357,NEC,Sacred Heart
-257,1358,,Sam Houston St
-258,1359,SoCon,Samford
-259,1360,WCC,San Diego
-260,1361,,San Diego St
-261,1362,WCC,San Francisco
-262,1363,,San Jose St
-263,1364,,Santa Barbara
-264,1365,WCC,Santa Clara
-265,1366,,Savannah St
-266,1367,,SC Upstate
-267,1368,,SE Louisiana
-268,1369,,SE Missouri St
-269,1370,WAC,Seattle
-270,1371,Big East,Seton Hall
-271,1372,,SF Austin
-272,1373,MAAC,Siena
-273,1374,,SMU
-274,1375,Sun Belt,South Alabama
-275,1376,SEC,South Carolina
-276,1377,Summit,South Dakota
-277,1378,AAC,South Florida
-278,1379,,Southern Miss
-279,1380,,Southern Univ
-280,1381,Big Sky,Southern Utah
-281,1382,,St Bonaventure
-282,1383,,St Francis NY
-283,1384,,St Francis PA
-284,1385,,St John's
-285,1386,,St Joseph's PA
-286,1387,,St Louis
-287,1388,,St Mary's CA
-288,1389,,St Peter's
-289,1390,Pac-12,Stanford
-290,1391,A-Sun,Stetson
-291,1392,AM East,Stony Brook
-292,1393,ACC,Syracuse
-293,1394,,TAM C. Christi
-294,1395,,TCU
-295,1396,AAC,Temple
-296,1397,SEC,Tennessee
-297,1398,,Tennessee St
-298,1399,OVC,Tennessee Tech
-299,1400,Big 12,Texas
-300,1401,SEC,Texas A&M
-301,1402,,Texas St
-302,1403,Big 12,Texas Tech
-303,1404,,TN Martin
-304,1405,MAC,Toledo
-305,1406,CAA,Towson
-306,1407,Sun Belt,Troy
-307,1408,AAC,Tulane
-308,1409,AAC,Tulsa
-309,1410,,UTRGV
-310,1411,,TX Southern
-311,1412,C-USA,UAB
-312,1413,Big West,UC Davis
-313,1414,Big West,UC Irvine
-314,1415,Big West,UC Riverside
-315,1416,AAC,UCF
-316,1417,Pac-12,UCLA
-317,1418,,ULL
-318,1419,,ULM
-319,1420,AM East,UMBC
-320,1421,Big South,UNC Asheville
-321,1422,SoCon,UNC Greensboro
-322,1423,CAA,UNC Wilmington
-323,1424,MWC,UNLV
-324,1425,Pac-12,USC
-325,1426,,UT Arlington
-326,1427,,UT San Antonio
-327,1428,Pac-12,Utah
-328,1429,,Utah St
-329,1430,WAC,Utah Valley
-330,1431,C-USA,UTEP
-331,1432,,Utica
-332,1433,,VA Commonwealth
-333,1434,Horizon,Valparaiso
-334,1435,SEC,Vanderbilt
-335,1436,AM East,Vermont
-336,1437,Big East,Villanova
-337,1438,ACC,Virginia
-338,1439,ACC,Virginia Tech
-339,1440,,VMI
-340,1441,,W Carolina
-341,1442,,W Illinois
-342,1443,,WKU
-343,1444,,W Michigan
-344,1445,,W Salem St
-345,1446,,W Texas A&M
-346,1447,NEC,Wagner
-347,1448,ACC,Wake Forest
-348,1449,Pac-12,Washington
-349,1450,,Washington St
-350,1451,,Weber St
-351,1452,Big 12,West Virginia
-352,1453,,WI Green Bay
-353,1454,,WI Milwaukee
-354,1455,,Wichita St
-355,1456,CAA,William & Mary
-356,1457,Big South,Winthrop
-357,1458,Big Ten,Wisconsin
-358,1459,SoCon,Wofford
-359,1460,,Wright St
-360,1461,MWC,Wyoming
-361,1462,Big East,Xavier
-362,1463,Ivy,Yale
-363,1464,,Youngstown St
+﻿,Team_Id,Conference,Team_Name.10,1101,Southland,Abilene Chr1,1102,MWC,Air Force2,1103,MAC,Akron3,1104,SEC,Alabama4,1105,SWAC,Alabama A&M5,1106,SWAC,Alabama St6,1107,AM East,Albany NY7,1108,SWAC,Alcorn St8,1109,,Alliant Intl9,1110,Patriot,American Univ10,1111,Sun Belt,Appalachian St11,1112,Pac-12,Arizona12,1113,Pac-12,Arizona St13,1114,Sun Belt,Ark Little Rock14,1115,SWAC,Ark Pine Bluff15,1116,SEC,Arkansas16,1117,Sun Belt,Arkansas St17,1118,Big South,Armstrong St18,1119,Patriot,Army19,1120,SEC,Auburn20,1121,,Augusta21,1122,OVC,Austin Peay22,1123,MAC,Ball St23,1124,Big 12,Baylor24,1125,OVC,Belmont25,1126,MEAC,Bethune-Cookman26,1127,AM East,Binghamton27,1128,,Birmingham So28,1129,MWC,Boise St29,1130,ACC,Boston College30,1131,Patriot,Boston Univ31,1132,MAC,Bowling Green32,1133,MVC,Bradley33,1134,,Brooklyn34,1135,Ivy,Brown35,1136,NEC,Bryant36,1137,Patriot,Bucknell37,1138,MAC,Buffalo38,1139,Big East,Butler39,1140,WCC,BYU40,1141,Mid-American,C Michigan41,1142,Big Sky,Cal Poly SLO42,1143,Pac-12,California43,1144,Big South,Campbell44,1145,MAAC,Canisius45,1146,Southland,Cent Arkansas46,1147,,Centenary47,1148,NEC,Central Conn48,1149,Big South,Charleston So49,1150,C-USA,Charlotte50,1151,SoCon,Chattanooga51,1152,WAC,Chicago St52,1153,AAC,Cincinnati53,1154,SoCon,Citadel54,1155,ACC,Clemson55,1156,Horizon,Cleveland St56,1157,Big South,Coastal Car57,1158,CAA,Col Charleston58,1159,Patriot,Colgate59,1160,Pac-12,Colorado60,1161,MWC,Colorado St61,1162,Ivy,Columbia62,1163,AAC,Connecticut63,1164,MEAC,Coppin St64,1165,Ivy,Cornell65,1166,Big East,Creighton66,1167,WAC,CS Bakersfield67,1168,Big West,CS Fullerton68,1169,Big West,CS Northridge69,1170,Big Sky,CS Sacramento70,1171,Ivy,Dartmouth71,1172,A-10,Davidson72,1173,A-10,Dayton73,1174,CAA,Delaware74,1175,CAA,Delaware St75,1176,Summit,Denver76,1177,Big East,DePaul77,1178,Horizon,Detroit78,1179,MVC,Drake79,1180,CAA,Drexel80,1181,ACC,Duke81,1182,A-10,Duquesne82,1183,OVC,E Illinois83,1184,OVC,E Kentucky84,1185,MAC,E Michigan85,1186,Big Sky,E Washington86,1187,AAC,East Carolina87,1188,OVC,Edwardsville88,1189,CAA,Elon89,1190,SoCon,ETSU90,1191,MVC,Evansville91,1192,NEC,F Dickinson92,1193,MAAC,Fairfield93,1194,C-USA,FL Atlantic94,1195,A-Sun,FL Gulf Coast95,1196,SEC,Florida96,1197,MEAC,Florida A&M97,1198,C-USA,Florida Intl98,1199,ACC,Florida St99,1200,A-10,Fordham100,1201,MWC,Fresno St101,1202,SoCon,Furman102,1203,A-10,G Washington103,1204,SoCon,Ga Southern104,1205,Big South,Gardner Webb105,1206,A-10,George Mason106,1207,Big East,Georgetown107,1208,SEC,Georgia108,1209,Sun Belt,Georgia St109,1210,ACC,Georgia Tech110,1211,WCC,Gonzaga111,1212,SWAC,Grambling112,1213,WAC,Grand Canyon113,1214,MEAC,Hampton114,1215,,Hardin-Simmons115,1216,AM East,Hartford116,1217,Ivy,Harvard117,1218,Big West,Hawaii118,1219,Big South,High Point119,1220,CAA,Hofstra120,1221,Patriot,Holy Cross121,1222,AAC,Houston122,1223,Southland,Houston Bap123,1224,MEAC,Howard124,1225,Big Sky,Idaho125,1226,Big Sky,Idaho St126,1227,Horizon,IL Chicago127,1228,Big Ten,Illinois128,1229,MVC,Illinois St129,1230,Southland,Incarnate Word130,1231,Big Ten,Indiana131,1232,MVC,Indiana St132,1233,MAAC,Iona133,1234,Big Ten,Iowa134,1235,Big 12,Iowa St135,1236,Summit,IPFW136,1237,Summit,IUPUI137,1238,SWAC,Jackson St138,1239,A-Sun,Jacksonville139,1240,OVC,Jacksonville St140,1241,CAA,James Madison141,1242,Big 12,Kansas142,1243,Big 12,Kansas St143,1244,A-Sun,Kennesaw144,1245,MAC,Kent145,1246,SEC,Kentucky146,1247,A-10,La Salle147,1248,Patriot,Lafayette148,1249,Southland,Lamar149,1250,Patriot,Lehigh150,1251,Big South,Liberty151,1252,A-Sun,Lipscomb152,1253,Big West,Long Beach St153,1254,NEC,Long Island154,1255,Big South,Longwood155,1256,C-USA,Louisiana Tech156,1257,ACC,Louisville157,1258,WCC,Loy Marymount158,1259,Patriot,Loyola MD159,1260,MVC,Loyola-Chicago160,1261,SEC,LSU161,1262,AM East,MA Lowell162,1263,AM East,Maine163,1264,MAAC,Manhattan164,1265,MAAC,Marist165,1266,Big East,Marquette166,1267,C-USA,Marshall167,1268,Big Ten,Maryland168,1269,A-10,Massachusetts169,1270,Southland,McNeese St170,1271,MEAC,MD E Shore171,1272,AAC,Memphis172,1273,SoCon,Mercer173,1274,ACC,Miami FL174,1275,MAC,Miami OH175,1276,Big Ten,Michigan176,1277,Big Ten,Michigan St177,1278,Big Ten,Minnesota178,1279,SEC,Mississippi179,1280,SEC,Mississippi St180,1281,SEC,Missouri181,1282,WAC,Missouri KC182,1283,MVC,Missouri St183,1284,MAAC,Monmouth NJ184,1285,Big Sky,Montana185,1286,Big Sky,Montana St186,1287,OVC,Morehead St187,1288,MEAC,Morgan St188,1289,,Morris Brown189,1290,SWAC,MS Valley St190,1291,NEC,Mt St Mary's191,1292,C-USA,MTSU192,1293,OVC,Murray St193,1294,Big Sky,N Colorado194,1295,Summit,N Dakota St195,1296,MAC,N Illinois196,1297,Horizon,N Kentucky197,1298,Patriot,Navy198,1299,MEAC,NC A&T199,1300,MEAC,NC Central200,1301,ACC,NC State201,1302,Summit,NE Illinois202,1303,Summit,NE Omaha203,1304,Big Ten,Nebraska204,1305,MWC,Nevada205,1306,AM East,New Hampshire206,1307,MWC,New Mexico207,1308,WAC,New Mexico St208,1309,Southland,New Orleans209,1310,MAAC,Niagara210,1311,Southland,Nicholls St211,1312,A-Sun,NJIT212,1313,MEAC,Norfolk St213,1314,ACC,North Carolina214,1315,Big Sky,North Dakota215,1316,A-Sun,North Florida216,1317,C-USA,North Texas217,1318,CAA,Northeastern218,1319,Big Sky,Northern Arizona219,1320,MVC,Northern Iowa220,1321,Big Ten,Northwestern221,1322,Southland,Northwestern LA222,1323,ACC,Notre Dame223,1324,Horizon,Oakland224,1325,MAC,Ohio225,1326,Big Ten,Ohio St226,1327,SAC,Okla City227,1328,Big 12,Oklahoma228,1329,Big 12,Oklahoma St229,1330,C-USA,Old Dominion230,1331,Summit,Oral Roberts231,1332,Pac-12,Oregon232,1333,Pac-12,Oregon St233,1334,WCC,Pacific234,1335,Ivy,Penn235,1336,Big Ten,Penn St236,1337,WCC,Pepperdine237,1338,ACC,Pittsburgh238,1339,WCC,Portland239,1340,Big Sky,Portland St240,1341,SWAC,Prairie View241,1342,Big South,Presbyterian242,1343,Ivy,Princeton243,1344,Big East,Providence244,1345,Big Ten,Purdue245,1346,MAAC,Quinnipiac246,1347,Big South,Radford247,1348,A-10,Rhode Island248,1349,C-USA,Rice249,1350,A-10,Richmond250,1351,MAAC,Rider251,1352,NEC,Robert Morris252,1353,Big Ten,Rutgers253,1354,MEAC,S Carolina St254,1355,Summit,S Dakota St255,1356,MVC,S Illinois256,1357,NEC,Sacred Heart257,1358,Southland,Sam Houston St258,1359,SoCon,Samford259,1360,WCC,San Diego260,1361,MWC,San Diego St261,1362,WCC,San Francisco262,1363,MWC,San Jose St263,1364,Big West,Santa Barbara264,1365,WCC,Santa Clara265,1366,MEAC,Savannah St266,1367,A-Sun,SC Upstate267,1368,Southland,SE Louisiana268,1369,OVC,SE Missouri St269,1370,WAC,Seattle270,1371,Big East,Seton Hall271,1372,Southland,SF Austin272,1373,MAAC,Siena273,1374,AAC,SMU274,1375,Sun Belt,South Alabama275,1376,SEC,South Carolina276,1377,Summit,South Dakota277,1378,AAC,South Florida278,1379,C-USA,Southern Miss279,1380,SWAC,Southern Univ280,1381,Big Sky,Southern Utah281,1382,A-10,St Bonaventure282,1383,NEC,St Francis NY283,1384,NEC,St Francis PA284,1385,Big East,St John's285,1386,A-10,St Joseph's PA286,1387,A-10,St Louis287,1388,WCC,St Mary's CA288,1389,MAAC,St Peter's289,1390,Pac-12,Stanford290,1391,A-Sun,Stetson291,1392,AM East,Stony Brook292,1393,ACC,Syracuse293,1394,Southland,TAM C. Christi294,1395,Big 12,TCU295,1396,AAC,Temple296,1397,SEC,Tennessee297,1398,OVC,Tennessee St298,1399,OVC,Tennessee Tech299,1400,Big 12,Texas300,1401,SEC,Texas A&M301,1402,Sun Belt,Texas St302,1403,Big 12,Texas Tech303,1404,OVC,TN Martin304,1405,MAC,Toledo305,1406,CAA,Towson306,1407,Sun Belt,Troy307,1408,AAC,Tulane308,1409,AAC,Tulsa309,1410,WAC,UTRGV310,1411,SWAC,TX Southern311,1412,C-USA,UAB312,1413,Big West,UC Davis313,1414,Big West,UC Irvine314,1415,Big West,UC Riverside315,1416,AAC,UCF316,1417,Pac-12,UCLA317,1418,Sun Belt,ULL318,1419,Sun Belt,ULM319,1420,AM East,UMBC320,1421,Big South,UNC Asheville321,1422,SoCon,UNC Greensboro322,1423,CAA,UNC Wilmington323,1424,MWC,UNLV324,1425,Pac-12,USC325,1426,Sun Belt,UT Arlington326,1427,C-USA,UT San Antonio327,1428,Pac-12,Utah328,1429,MWC,Utah St329,1430,WAC,Utah Valley330,1431,C-USA,UTEP331,1432,,Utica332,1433,A-10,VA Commonwealth333,1434,Horizon,Valparaiso334,1435,SEC,Vanderbilt335,1436,AM East,Vermont336,1437,Big East,Villanova337,1438,ACC,Virginia338,1439,ACC,Virginia Tech339,1440,SoCon,VMI340,1441,SoCon,W Carolina341,1442,Summit,W Illinois342,1443,C-USA,WKU343,1444,MAC,W Michigan344,1445,CIAA,W Salem St345,1446,SEC,W Texas A&M346,1447,NEC,Wagner347,1448,ACC,Wake Forest348,1449,Pac-12,Washington349,1450,Pac-12,Washington St350,1451,Big Sky,Weber St351,1452,Big 12,West Virginia352,1453,Horizon,WI Green Bay353,1454,Horizon,WI Milwaukee354,1455,MVC,Wichita St355,1456,CAA,William & Mary356,1457,Big South,Winthrop357,1458,Big Ten,Wisconsin358,1459,SoCon,Wofford359,1460,Horizon,Wright St360,1461,MWC,Wyoming361,1462,Big East,Xavier362,1463,Ivy,Yale363,1464,Horizon,Youngstown St
