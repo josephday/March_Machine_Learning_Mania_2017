@@ -27,7 +27,7 @@ def seed_to_int(seed):
 
 df_seeds['n_seed'] = df_seeds.Seed.apply(seed_to_int)
 df_seeds.drop(labels=['Seed'], inplace=True, axis=1) # This is the string label
-print(df_seeds.head)
+#print(df_seeds.head)
 df_winseeds = df_seeds.rename(columns={'Team':'Wteam', 'n_seed':'win_seed'})
 df_lossseeds = df_seeds.rename(columns={'Team':'Lteam', 'n_seed':'loss_seed'})
 df_dummy = pd.merge(left=df_tour, right=df_winseeds, how='left', on=['Season', 'Wteam'])
@@ -56,7 +56,7 @@ logreg = LinearRegression()
 params = {'fit_intercept':[True,False], 'normalize':[True,False], 'copy_X':[True, False]}
 clf = GridSearchCV(logreg, params, cv=None)
 clf.fit(X_train, y_train)
-print(clf.best_score_)
+#print(clf.best_score_)
 df_sample_sub = pd.read_csv('sample_submission.csv')
 n_test_games = len(df_sample_sub)
 
@@ -72,10 +72,10 @@ for ii, row in df_sample_sub.iterrows():
     t2_seed = df_seeds[(df_seeds.Team == t2) & (df_seeds.Season == year)].n_seed.values[0]
     diff_seed = t1_seed - t2_seed
     X_test[ii, 0] = diff_seed
-
+'''
 preds = clf.predict(X_test)
 clipped_preds = np.clip(preds, 0.05, 0.95)
 df_sample_sub.pred = clipped_preds
-df_sample_sub.head()
+df_sample_sub.head()'''
 
 #df_sample_sub.to_csv('linreg_on_seed.csv', index=False)
