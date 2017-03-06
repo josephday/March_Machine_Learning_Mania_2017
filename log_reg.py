@@ -9,8 +9,8 @@ from sklearn.model_selection import GridSearchCV
 # Input data files are available in the "../input/" directory.
 # For example, running this (by clicking run or pressing Shift+Enter) will list the files in the input directory
 
-from subprocess import check_output
-print(check_output(["ls", "../data"]).decode("utf8"))
+#from subprocess import check_output
+#print(check_output(["ls", "../data"]).decode("utf8"))
 
 data_dir = '../data/'
 df_seeds = pd.read_csv('TourneySeeds.csv')
@@ -46,13 +46,13 @@ X_train = df_for_predictions.seed_diff.values.reshape(-1,1)
 y_train = df_for_predictions.result.values
 X_train, y_train = shuffle(X_train, y_train)
 
-logreg = LogisticRegression()
-params = {'C': np.logspace(start=-5, stop=3, num=9)}
-clf = GridSearchCV(logreg, params, scoring='neg_log_loss', refit=True)
+clf = LogisticRegression()
+#params = {'C': np.logspace(start=-5, stop=3, num=9)}
+#clf = GridSearchCV(logreg, params, scoring='neg_log_loss', refit=True)
 clf.fit(X_train, y_train)
-print('Best log_loss: {:.4}, with best C: {}'.format(clf.best_score_, clf.best_params_['C']))
-
-df_sample_sub = pd.read_csv(data_dir + 'sample_submission.csv')
+#print('Best log_loss: {:.4}, with best C: {}'.format(clf.best_score_, clf.best_params_['C']))
+print(clf.coef_,clf.intercept_)
+df_sample_sub = pd.read_csv('sample_submission.csv')
 n_test_games = len(df_sample_sub)
 
 def get_year_t1_t2(id):
@@ -74,4 +74,4 @@ clipped_preds = np.clip(preds, 0.10, 0.9)
 df_sample_sub.pred = clipped_preds
 df_sample_sub.head()
 
-df_sample_sub.to_csv('logreg_on_seed2.csv', index=False)
+#df_sample_sub.to_csv('logreg_on_seed2.csv', index=False)
