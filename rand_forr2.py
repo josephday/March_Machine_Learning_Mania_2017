@@ -85,16 +85,8 @@ df_for_predictions = pd.concat((df_wins, df_losses))
 columns = df_for_predictions.columns.tolist()
 columns = columns[:-4]
 
-#df_for_test = df_for_predictions[df_for_predictions['Season'] >= 2013]
-#df_for_predictions = df_for_predictions[df_for_predictions['Season'] <= 2012]
-
-
 given_data = df_for_predictions.as_matrix(columns = columns)
 target_data = np.array(df_for_predictions['result'].tolist())
-
-
-#given_test = df_for_test.as_matrix(columns = columns)
-#target_test = np.array(df_for_test['result'].tolist())
 
 clf = gbc(n_estimators = 10)
 clf = clf.fit(given_data, target_data)

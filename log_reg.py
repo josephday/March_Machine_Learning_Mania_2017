@@ -13,8 +13,8 @@ from subprocess import check_output
 print(check_output(["ls", "../data"]).decode("utf8"))
 
 data_dir = '../data/'
-df_seeds = pd.read_csv(data_dir + 'TourneySeeds.csv')
-df_tour = pd.read_csv(data_dir + 'TourneyCompactResults.csv')
+df_seeds = pd.read_csv('TourneySeeds.csv')
+df_tour = pd.read_csv('TourneyCompactResults.csv')
 
 df_tour.drop(labels=['Daynum', 'Wscore', 'Lscore', 'Wloc', 'Numot'], inplace=True, axis=1)
 
@@ -70,8 +70,8 @@ for ii, row in df_sample_sub.iterrows():
 
 preds = clf.predict_proba(X_test)[:,1]
 
-clipped_preds = np.clip(preds, 0.05, 0.95)
+clipped_preds = np.clip(preds, 0.10, 0.9)
 df_sample_sub.pred = clipped_preds
 df_sample_sub.head()
 
-df_sample_sub.to_csv('logreg_on_seed.csv', index=False)
+df_sample_sub.to_csv('logreg_on_seed2.csv', index=False)
